@@ -10,7 +10,7 @@ def read_data(path):
 	
 # start with here
 # rule: alpha(condset) to beta(class)
-# alpha: A》B
+# alpha: A>B
 # beta: age >= 40
 def isalpha(line, c):
 	flag = True
